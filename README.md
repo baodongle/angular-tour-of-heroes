@@ -1,5 +1,7 @@
 # AngularTourOfHeroes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/baodongle/angular-tour-of-heroes.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
 ## Development server
